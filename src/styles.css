@@ -1,0 +1,40 @@
+/* Add application styles & imports to this file! */
+body{
+
+  background-image: url("./assets/img/fondo3.png");
+
+  margin: auto;
+}
+ /*bordecard y botoneslilas y botoneslilas:hover*/
+
+ .bordecard {
+    border-color: #563d7c !important;
+  }
+
+
+
+
+
+.botoneslilas {
+  color: #fff  !important;
+  background-color: #563d7c  !important;
+  border-color: #563d7c  !important;
+}
+
+.botoneslilas:hover {
+  color: #fff !important;
+  background-color: #927bb4 !important;
+  border-color: #927bb4 !important;
+}
+
+.botoneseliminar{
+  color: #fff  !important;
+  background-color: #CC0033  !important;
+  border-color: #CC0033  !important;
+}
+
+.botoneseliminar:hover {
+  color: #fff !important;
+  background-color: rgb(201, 40, 83) !important;
+  border-color: rgb(201, 40, 83) !important;
+}
