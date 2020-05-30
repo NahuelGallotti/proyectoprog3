@@ -1,10 +1,13 @@
 /* Add application styles & imports to this file! */
-body{
+body {
 
-  background-image: url("./assets/img/fondo3.png");
+  background-image: url("");
+
+
 
   margin: auto;
 }
+
  /*bordecard y botoneslilas y botoneslilas:hover*/
 
  .bordecard {
